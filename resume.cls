@@ -88,6 +88,8 @@
 % defines one's phone
 % usage: \phone{<phone>}
 \newcommand{\phone}[1]{\faPhone\ {#1}}
+
+\newcommand{\location}[1]{\faLocationArrow\ {#1}}
 % defines one's linkedin
 % usage: \linkedin{<linkedin>}
 \newcommand{\linkedin}[2][]{\faLinkedin\ 
